@@ -1,6 +1,6 @@
-# :exclamation: New project maintainers :exclamation:
+# :exclamation: forked from Jimdo/prometheus_client_php :exclamation:
 
-This project is no longer maintained here. Please go to https://github.com/endclothing/prometheus_client_php.
+Original package is [here](https://github.com/Jimdo/prometheus_client_php)
 
 # A prometheus client library written in PHP
 
